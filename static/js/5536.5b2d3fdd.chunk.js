@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrihi=self.webpackChunkrihi||[]).push([[5536],{5536:(e,a,i)=>{async function t(e){let a=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];await e.addParticleUpdater("size",(async()=>{const{SizeUpdater:e}=await i.e(4494).then(i.bind(i,4494));return new e}),a)}i.d(a,{loadSizeUpdater:()=>t})}}]);
+//# sourceMappingURL=5536.5b2d3fdd.chunk.js.map
